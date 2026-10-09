@@ -58,6 +58,3 @@ Abbiamo scelto il **modello bilanciato**: il modello base, pur più accurato, no
 
 Apri il notebook con il pulsante **Open in Colab** in alto. Il codice legge il CSV da Google Drive: per eseguirlo, carica `Bank_Churn.csv` nel tuo Drive e aggiorna il percorso nella cella di importazione.
 
-## Note
-
-Alcune celle di codice sono state sviluppate con il supporto di strumenti di intelligenza artificiale; la logica è stata poi compresa e verificata, come indicato nel notebook.
